@@ -4,7 +4,7 @@ I'm an enthusiastic undergraduate student who eager to learn and develop new thi
 
 <img src="https://komarev.com/ghpvc/?username=mikeleo03&label=Profile%20views&color=0e75b6&style=flat" alt="mikeleo03" />
 
-- 💡   I like to explore new technologies and develop software
+- 💡    I like to explore new technologies and techstack
 - 🎓  I'm currently an Informatics Engineering student at Bandung Institute of Technology
 - 🌱  I'm on track for learning more about Software Engineering and Web Development
 
@@ -27,7 +27,9 @@ I'm an enthusiastic undergraduate student who eager to learn and develop new thi
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?logo=bootstrap&logoColor=white)&nbsp;
+![Three.js](https://img.shields.io/badge/Three.js-%2320232a.svg?logo=three&logoColor=white)&nbsp;
+![Vite.js](https://img.shields.io/badge/Vite.js-7952B3.svg?logo=vite&logoColor=yellow)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)&nbsp;
 
 ### 📊 &nbsp;Stats
