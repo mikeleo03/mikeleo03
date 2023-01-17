@@ -28,7 +28,7 @@ I'm an enthusiastic undergraduate student who eager to learn and develop new thi
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?logo=bootstrap&logoColor=white)&nbsp;
-![Three.js](https://img.shields.io/badge/Three.js-%2320232a.svg?logo=three&logoColor=white)&nbsp;
+![Three.js](https://img.shields.io/badge/Three.js-%2320232a.svg?logo=three.js&logoColor=white)&nbsp;
 ![Vite.js](https://img.shields.io/badge/Vite.js-7952B3.svg?logo=vite&logoColor=yellow)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white)&nbsp;
 
