@@ -1,4 +1,4 @@
-[![Header](header.gif "Header")](https://github.com/mikeleo03/mikeleo03)
+[![Header](header.gif)](https://github.com/mikeleo03/mikeleo03)
 
 <a href="https://github.com/mikeleo03">
   <img align="right" alt="Leon's Github" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/github.svg" />
@@ -22,6 +22,7 @@
 Hello! I'm Michael Leon, a current student at the Bandung Institute of Technology studying Informatics Engineering.
 
 I'm an enthusiastic undergraduate student who eager to learn and develop new things. Looking forward to a great challenge and opportunity in the near future!
+
 <img src="https://komarev.com/ghpvc/?username=mikeleo03&label=Profile%20views&color=0e75b6&style=flat" alt="mikeleo03" />
 
 ## 🛠 &nbsp;Tech Stack
