@@ -1,12 +1,28 @@
-# Hi there 👋 I'm Michael Leon
+[![Header](header.gif "Header")](https://github.com/mikeleo03/mikeleo03)
+
+<a href="https://github.com/mikeleo03">
+  <img align="right" alt="Leon's Github" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/github.svg" />
+</a>
+<a href="https://discord.com/users/824712899859054632">
+  <img align="right" alt="Leon's Discord" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/discord.svg" />
+</a>
+<a href="https://www.instagram.com/leo.mike_/">
+  <img align="right" alt="Leon's Instagram" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/michaeleon/">
+  <img align="right" alt="Leon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/linkedin.svg" />
+</a>
+<a href="mailto: leonmichael463@gmail.com">
+  <img align="right" alt="Leon's Email" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/mail.png" />
+</a>
+
+<img src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/wave.gif" height="30px"> Hi, I'm Michael Leon!
+===============	
+  
+Hello! I'm Michael Leon, a current student at the Bandung Institute of Technology studying Informatics Engineering.
 
 I'm an enthusiastic undergraduate student who eager to learn and develop new things. Looking forward to a great challenge and opportunity in the near future!
-
 <img src="https://komarev.com/ghpvc/?username=mikeleo03&label=Profile%20views&color=0e75b6&style=flat" alt="mikeleo03" />
-
-- 💡    I like to explore new technologies and techstack
-- 🎓  I'm currently an Informatics Engineering student at Bandung Institute of Technology
-- 🌱  I'm on track for learning more about Software Engineering and Web Development
 
 ## 🛠 &nbsp;Tech Stack
 
