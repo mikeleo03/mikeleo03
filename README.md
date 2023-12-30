@@ -15,15 +15,16 @@
 <a href="mailto: leonmichael463@gmail.com">
   <img align="right" alt="Leon's Email" width="32px" src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/mail.png" />
 </a>
+<a href="https://github.com/mikeleo03/mikeleo03">
+  <img align="right" padding="5px" src="https://komarev.com/ghpvc/?username=mikeleo03&label=Profile%20views&color=0e75b6&style=flat" alt="mikeleo03" />
+</a>
 
 <img src="https://raw.githubusercontent.com/mikeleo03/mikeleo03/main/wave.gif" height="30px"> Hi, I'm Michael Leon!
 ===============	
   
 Hello! I'm Michael Leon, a current student at the Bandung Institute of Technology studying Informatics Engineering.
 
-I'm an enthusiastic undergraduate student who eager to learn and develop new things. Looking forward to a great challenge and opportunity in the near future!
-
-<img src="https://komarev.com/ghpvc/?username=mikeleo03&label=Profile%20views&color=0e75b6&style=flat" alt="mikeleo03" />
+I am a passionate learner in informatics engineering, captivated by the incredible capabilities computers unfold through lines of code and the wonders of software engineering. I am constantly driven to explore new algorithms and techniques, eager to integrate them into my projects. Engaging in side projects and occasional competitions allows me to apply my expanding knowledge in practical ways. Although I initially began my programming journey with Python, my focus has shifted toward using TypeScript and Golang for full-stack web development, which I find immensely gratifying. Setting me apart from many informatics engineering students, I have a keen interest in UI/UX design, embracing the entire end-to-end process—from gathering user requirements to employing various design thinking approaches, creating designs, and conducting thorough testing for real users. Recently, my fascination with linear algebra and algorithm strategies has led me into broader realms such as machine learning and AI.
 
 ## 🛠 &nbsp;Tech Stack
 
