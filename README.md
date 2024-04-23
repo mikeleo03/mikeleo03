@@ -106,5 +106,5 @@ I am a passionate learner in informatics engineering, captivated by the incredib
     </a>
   <a href="http://www.github.com/mikeleo03">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeleo03&&show_icons=true&count_private=true&include_all_commits=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/mikeleo03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleo03&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;layout=compact&exclude_repo=Customer-Review-ML-Case" alt="Top Languages" /></a>
+<a href="https://github.com/mikeleo03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleo03&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;layout=compact&exclude_repo=Customer-Review-ML-Case,Artificial-Neural-Network" alt="Top Languages" /></a>
 </p>
